@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+# for lets use huggingface @ 2024/7/17
+
+transformers[torch]==4.42.3
+accelerate==0.32.1
+ipywidgets
+flash_attn==2.5.8
