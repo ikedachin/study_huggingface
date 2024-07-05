@@ -4,4 +4,4 @@
 transformers[torch]==4.42.3
 accelerate==0.32.1
 ipywidgets
-flash_attn==2.5.8
+# flash_attn==2.5.8
