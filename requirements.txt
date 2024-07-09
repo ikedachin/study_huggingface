@@ -2,6 +2,7 @@
 # for lets use huggingface @ 2024/7/17
 
 transformers[torch]==4.42.3
+datasets==2.20.0
 accelerate==0.32.1
 ipywidgets
 # flash_attn==2.5.8
