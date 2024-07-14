@@ -3,8 +3,10 @@
 - Google colabのリンクと画面（Chrome）
 - Huggingfaceのhpの画面（safari）
 
+- デモンストレーションはHuggingfaceのhpとGoogle Colabを行ったり来たり説明すること
 
-### 勉強会アジェンダ
+
+### 勉強会アジェンダ（GPTにぶん投げた結果）
 
 **1. オープニング (5分)**
 - 勉強会の目的と概要説明
