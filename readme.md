@@ -1,3 +1,9 @@
+### 当日用意すること
+- パワポ
+- Google colabのリンクと画面（Chrome）
+- Huggingfaceのhpの画面（safari）
+
+
 ### 勉強会アジェンダ
 
 **1. オープニング (5分)**
