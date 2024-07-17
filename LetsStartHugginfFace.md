@@ -2,7 +2,7 @@
 
 # きっかけ
 
-# 参考にしているホン
+# 参考にしている本
 https://github.com/oreilly-japan/nlp-with-transformers-ja
 https://github.com/nlp-with-transformers/notebooks
 
