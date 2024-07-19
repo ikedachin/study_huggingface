@@ -12,3 +12,4 @@ pip install -r requiremets.txt
 
 ## windows
 開発者モードにする必要があるかも
+設定 -> 更新とセキュリティ -> 開発者向け -> 開発者モードをオンにする
