@@ -2,3 +2,5 @@ hug_env/
 pptx/
 huggingface_token.txt
 huggingface 勉強会資料.pptx
+mokumoku_01/distilbert-base-uncased-finetuned-emotion/
+環境構築.pptx
