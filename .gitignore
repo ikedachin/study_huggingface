@@ -3,4 +3,6 @@ pptx/
 huggingface_token.txt
 huggingface 勉強会資料.pptx
 mokumoku_01/distilbert-base-uncased-finetuned-emotion/
-環境構築.pptx
+mokumoku_01/text/
+mokumoku_01/results/
+mokumoku_01/ldcc-20140209.tar.gz
